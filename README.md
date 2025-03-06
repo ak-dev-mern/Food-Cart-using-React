@@ -1,2 +1,8 @@
-# Food Cart using React
- Food Cart built with React allows users to browse and add food items to their cart, view item details, and proceed to checkout. The app provides real-time updates on the cart total and item quantities. Fully responsive, it offers a seamless and interactive food ordering experience across all devices.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
